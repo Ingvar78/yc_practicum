@@ -44,9 +44,12 @@ yc application-load-balancer load-balancer stop <id балансировщика
 В курсе предполагается использование сети с именем default - если у вас в Яндекс Облаке уже есть каталог с какими-то ресурсами, рекомендуем создать новый пустой и проходить курс в нем.
 
 Для работы понадобятся:
-    [kubectl](https://kubernetes.io/docs/tasks/tools/)
-    [helm](https://helm.sh/docs/intro/install/)
-    [yc](https://cloud.yandex.com/en/docs/cli/operations/install-cli)
+
+    - [kubectl](https://kubernetes.io/docs/tasks/tools/)
+
+    - [helm](https://helm.sh/docs/intro/install/)
+
+    - [yc](https://cloud.yandex.com/en/docs/cli/operations/install-cli)
 
 Установите любой текстовый редактор, например, VS Code.
 
