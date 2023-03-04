@@ -45,11 +45,11 @@ yc application-load-balancer load-balancer stop <id балансировщика
 
 Для работы понадобятся:
 
-    - [kubectl](https://kubernetes.io/docs/tasks/tools/)
+[kubectl](https://kubernetes.io/docs/tasks/tools/)
 
-    - [helm](https://helm.sh/docs/intro/install/)
+[helm](https://helm.sh/docs/intro/install/)
 
-    - [yc](https://cloud.yandex.com/en/docs/cli/operations/install-cli)
+[yc](https://cloud.yandex.com/en/docs/cli/operations/install-cli)
 
 Установите любой текстовый редактор, например, VS Code.
 
